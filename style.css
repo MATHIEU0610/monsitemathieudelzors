@@ -7,6 +7,8 @@ body {
 	font-size: 17px ;
 	text-align: center;
 	font-weight: lighter;
+	background-image: url("images/fond2.jpg");
+	background-size: cover;
 }
 
 }
@@ -20,7 +22,7 @@ h1 {
   font-weight: 900;
 }
 h2 {
-  color: #7ECE90;
+  color:firebrick;
   font-size: 20px;
   font-weight: lighter;
   font-weight: 500;
@@ -52,18 +54,18 @@ div {
     background-color: #575F7D;
     color: whitesmoke;
     font-weight: bold;
-    padding: 13px;
+    padding: 12px;
     border-radius: 6px;
     border: 1px black;
     margin: 24px auto;
     display color: black;
     width: 50%;
-    transition: 1s;
+    transition: 0s;
 }
 
 .buttun-blue:hover {
 	background-color: white;
-	color: blue;
+	color: firebrick;
 	transition: 1s;
 }
 
