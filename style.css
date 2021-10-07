@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+	color:#575F7D;
+	background-color:#F7F9FC;
+	font-family: "Lora", sans-serif;
+	font-size: 17px ;
+	text-align: center;
+	font-weight: lighter;
+}
+
+}
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #575F7D;
+  font-size: 32px;
+  font-weight: 900;
+}
+h2 {
+  color: #7ECE90;
+  font-size: 20px;
+  font-weight: lighter;
+  font-weight: 500;
+}
+
+
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #6B72E1;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+img {
+	border-radius: 45%;
+}
+
+div {
+	width:75%;
+	padding:24px;
+	margin: 24px auto;
+	background-color: white;
+	border-radius: 7px;
+	box-shadow: 3px 4px 11px #726b6bd1;
+}
+
+.buttun-blue {
+    background-color: #575F7D;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 13px;
+    border-radius: 6px;
+    border: 1px black;
+    margin: 24px auto;
+    display color: black;
+    width: 50%;
+    transition: 1s;
+}
+
+.buttun-blue:hover {
+	background-color: white;
+	color: blue;
+	transition: 1s;
+}
+
+i {
+	font-size: 48px;
+	color: rgba(0, 0, 0, .4);
+}
+
+#list-inline li {
+	display: inline;
+	margin: 0 8px;
+}
+
+i:hover {
+	color: black;
+	transition: 1s;
+}
+
+#list-inline {
+	padding: 0;
+}
